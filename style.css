@@ -1,0 +1,32 @@
+header{
+    background-image: url('images/banner/banner1.png');
+    max-width: 1600px;
+max-height: 808px;
+}
+.banner-title{
+    color: var(--Dark-01, #151414);
+text-align: right;
+   max-width: 525px;
+    max-height: 228px;
+    padding:  216px 230px 364px 828px;
+}
+.title-description{
+    maz-width: 494px ;
+    maz-height: 98px;
+    margin-top: 24px;
+}
+.btn-primary{
+    margin-top: 30px;
+    max-width: 160px;
+    text-align: center;
+height: 64px;
+border-radius: 5px;
+background: #F15B22;
+flex-shrink: 0;
+color: #FFF;
+text-align: right;
+font-family: Work Sans;
+font-size: 20px;
+font-style: normal;
+font-weight: 600;
+line-height: normal;}
